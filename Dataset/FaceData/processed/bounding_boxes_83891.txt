@@ -1,0 +1,30 @@
+Dataset/FaceData/processed\Messi\images (2).png 122 0 177 66
+Dataset/FaceData/processed\Messi\images (3).png 24 30 185 235
+Dataset/FaceData/processed\Messi\download (3).png 114 0 174 74
+Dataset/FaceData/processed\Messi\images.png 103 11 168 88
+Dataset/FaceData/processed\Messi\images (4).png 79 0 150 87
+Dataset/FaceData/processed\Messi\images (1).png 118 9 188 89
+Dataset/FaceData/processed\Messi\download (2).png 113 1 175 73
+Dataset/FaceData/processed\Messi\download (4).png 49 27 140 140
+Dataset/FaceData/processed\Messi\download (5).png 103 4 167 82
+Dataset/FaceData/processed\Messi\download (7).png 59 49 125 127
+Dataset/FaceData/processed\Messi\download.png 46 24 141 146
+Dataset/FaceData/processed\Messi\download (1).png 61 10 119 81
+Dataset/FaceData/processed\Messi\download (6).png 89 42 158 125
+Dataset/FaceData/processed\Messi\download (8).png 58 19 146 127
+Dataset/FaceData/processed\Daidh\Capture.png 40 38 120 134
+Dataset/FaceData/processed\Daidh\55450496_598161767276027_8394136421773869056_n.png 249 125 515 473
+Dataset/FaceData/processed\Daidh\8.png 37 46 125 159
+Dataset/FaceData/processed\Daidh\4.png 72 40 147 124
+Dataset/FaceData/processed\Daidh\1.png 96 36 232 203
+Dataset/FaceData/processed\Daidh\2.png 43 32 118 116
+Dataset/FaceData/processed\Daidh\50528134_564874467271424_4695542372958732288_n.png 246 294 526 633
+Dataset/FaceData/processed\Daidh\6.png 143 100 235 203
+Dataset/FaceData/processed\Daidh\240467945_1184062138685984_5280412623883603070_n.png 151 213 290 379
+Dataset/FaceData/processed\Daidh\5.png 102 22 194 134
+Dataset/FaceData/processed\Daidh\3.png 130 83 251 222
+Dataset/FaceData/processed\Daidh\66845358_658147391277464_2462400807740375040_n.png 160 88 409 406
+Dataset/FaceData/processed\Daidh\162866407_1086371951788337_2256588647471895249_n.png 183 94 319 263
+Dataset/FaceData/processed\Daidh\7.png 72 42 168 160
+Dataset/FaceData/processed\Daidh\206085460_1142982559460609_608444708830490821_n.png 708 128 844 297
+Dataset/FaceData/processed\Daidh\9.png 25 56 108 154
